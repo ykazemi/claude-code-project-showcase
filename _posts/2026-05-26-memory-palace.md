@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Memory Palace (Periodic Table Edition)"
-date: 2026-05-27
+date: 2026-05-26
 team: "Aaron Elk"
 tools: "Claude Code, Python, pygame-ce"
 github_repo: "https://github.com/ae-314/memory-palace"
